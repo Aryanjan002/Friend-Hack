@@ -9,5 +9,8 @@
 # cd Friend-Hack
 # ls
 # python2 Aryanhacker.py
+# Username Aryan 
+# password Hacker 
+
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
