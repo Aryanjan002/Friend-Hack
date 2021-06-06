@@ -1,4 +1,4 @@
-# coded by ARYAN HACKER 👑 
+# coded by k3p1t1n9 HACKER 👑 
 # apt update 
 # apt upgrade 
 # apt install python 
